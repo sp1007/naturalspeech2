@@ -1,6 +1,8 @@
 
 # NaturalSpeech2_v2
 
+Forked from <a href="https://github.com/adelacvg/NS2VC/tree/vc-v2">https://github.com/adelacvg/NS2VC/tree/vc-v2</a>
+
 # This branch is for the tts task, the vc task is in the vc_v2 branch.
 
 ## Unofficial implementation of <a href="https://arxiv.org/pdf/2304.09116.pdf">NaturalSpeech2</a> for TTS
