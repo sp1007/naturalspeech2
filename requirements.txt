@@ -1,0 +1,7 @@
+accelerate 
+matplotlib 
+librosa 
+unidecode 
+inflect 
+ema_pytorch 
+tensorboard
