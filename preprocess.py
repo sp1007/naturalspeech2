@@ -15,7 +15,7 @@ import librosa
 import numpy as np
 import tgt
 
-hps = utils.get_hparams_from_file("config.json")
+hps = utils.get_hparams_from_file("config/config_vi.json")
 sampling_rate = hps.data.sampling_rate
 hop_length = hps.data.hop_length
 in_dir = ""
