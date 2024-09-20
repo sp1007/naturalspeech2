@@ -9,3 +9,4 @@ logs/*
 vctk/*
 dataset_processed/*
 dataset/*
+temp/*

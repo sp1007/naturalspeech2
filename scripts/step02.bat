@@ -1,0 +1,1 @@
+mfa align --clean -t ./temp ./dataset/northern ./mfa/vietnamese-dict.dict ./mfa/vi_northern_mfa.zip ./dataset/northern
